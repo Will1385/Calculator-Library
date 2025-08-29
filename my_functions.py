@@ -1,3 +1,8 @@
+"""
+Custom functions.
+"""
+
+
 def say_hi():
     return "Hello!"
 
